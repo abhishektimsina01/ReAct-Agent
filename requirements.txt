@@ -18,3 +18,4 @@ ddgs
 duckduckgo-search
 faiss-cpu
 streamlit
+langchain-tavily
